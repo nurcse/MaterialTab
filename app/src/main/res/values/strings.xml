@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MaterialTab</string>
+    <string name="one">ONE</string>
+    <string name="two">TWO</string>
+    <string name="three">THREE</string>
+    <string name="four">FOUR</string>
+    <string name="five">FIVE</string>
+    <string name="six">SIX</string>
+    <string name="seven">SEVEN</string>
+    <string name="eight">EIGHT</string>
+    <string name="nine">NINE</string>
+    <string name="ten">TEN</string>
+</resources>
